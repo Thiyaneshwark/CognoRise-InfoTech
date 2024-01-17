@@ -24,7 +24,7 @@ Welcome to the repository showcasing the projects and tasks completed during my 
   - Provided feedback on guesses and incorporated a loop for multiple attempts.
 
 - **Code:**
-  - [Number Guessing Game Code](/number_guessing_game/src/Main.java)
+  - [Number Guessing Game Code]([//src/.java](https://github.com/Thiyaneshwark/CognoRise-InfoTech/blob/main/Task%201-%20Number%20Guessing%20Game/Task%201-%20NumberGuessingGame.java))
 
 ## Library Management System
 
@@ -36,7 +36,7 @@ Welcome to the repository showcasing the projects and tasks completed during my 
   - Implemented functionalities for adding, searching, checking out, and returning books.
 
 - **Code:**
-  - [Library Management System Code](/library_management_system/src/Main.java)
+  - [Library Management System Code]([/library_management_system/src/Main.java](https://github.com/Thiyaneshwark/CognoRise-InfoTech/blob/main/Task%202-%20Library%20Management%20System/Task%202-%20LibraryManagementSystem.java))
 
 ## Calculator App
 
@@ -48,7 +48,7 @@ Welcome to the repository showcasing the projects and tasks completed during my 
   - Supported basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 - **Code:**
-  - [Calculator App Code](/calculator_app/src/Main.java)
+  - [Calculator App Code]([/calculator_app/src/Main.java](https://github.com/Thiyaneshwark/CognoRise-InfoTech/blob/main/Task%203-%20Calculator%20App/Task%203-%20CalculatorApp.java))
 
 ## Hangman Game
 
@@ -61,7 +61,7 @@ Welcome to the repository showcasing the projects and tasks completed during my 
   - Displayed hangman figures based on incorrect guesses.
 
 - **Code:**
-  - [Hangman Game Code](/hangman_game/src/Main.java)
+  - [Hangman Game Code]([/hangman_game/src/Main.java](https://github.com/Thiyaneshwark/CognoRise-InfoTech/blob/main/Task%204-%20Hangman%20Game/Task%204-%20HangmanGame.java))
 
 ## Student Course Registration System
 
@@ -72,7 +72,7 @@ Welcome to the repository showcasing the projects and tasks completed during my 
   - Enabled course listing, student registration, and course removal functionalities.
 
 - **Code:**
-  - [Student Course Registration System Code](/course_registration_system/src/Main.java)
+  - [Student Course Registration System Code]([/course_registration_system/src/Main.java](https://github.com/Thiyaneshwark/CognoRise-InfoTech/blob/main/Task%205-%20Student%20Course%20Registration%20System/Task%205-%20StudentCourseRegistrationSystem.java))
 
 ## Conclusion
 
